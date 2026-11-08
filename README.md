@@ -1,4 +1,7 @@
-# ElecCostCO2-for-IOS - Privacy Policy and Data Collection
+
+<img width="200" height="200" alt="SineLogo-iOS-Default-1024@1x" src="https://github.com/user-attachments/assets/2ea0fc7b-b34d-4e2c-858f-d3f428e026d0" />
+
+ElecCostCO2-for-IOS - Privacy Policy and Data Collection
 Privacy Policy for ElecCostCO2 App on the Apple App Store.
 
 General:
@@ -26,7 +29,7 @@ The App is distributed through the Apple App Store. References in this policy to
 
 
 Log Data: 
-The App does not contain its own analytics or crash-reporting service and does not send diagnostic logs to the developer. Apple may independently process operating-system or App Store diagnostic information in accordance with Apple's services, your device settings, and Apple's privacy policy. This is Apple's processing, not a separate third-party service incorporated into the App. The developer does not control Apple's independent collection or processing of that information.
+The App has not been designed with analytics, ads or crash-reporting services by the developer. Apple may independently process operating-system or App Store diagnostic information in accordance with Apple's services, your device settings, and Apple's privacy policy. This is Apple's processing, not a separate third-party service incorporated into the App. The developer does not control Apple's independent collection or processing of that information.
 
 
 No Advertising: 
@@ -52,4 +55,4 @@ Contact:
 If you have any questions or suggestions regarding this Privacy Policy, or if you identify any security vulnerability that may have been inadvertently introduced, please feel free to email contact the developer and action will be taken to try to fix it/help you.
 
 Yours sincerely, The App Developer 1st November 2026
-chivnet@outlook.com
+chivnetdevelop@gmail.com
