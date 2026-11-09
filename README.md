@@ -44,6 +44,7 @@ Disclaimer of Liability Statement:
 This App is provided at no cost and is intended for personal, informative, non-professional and non-commercial use. Calculation results are rounded up or down to the number of decimal places dependant on the size of the result. 
 No liability is taken by the developer, for any loss, whether direct or indirect, that you may experience as a result of relying solely on the functionality of this App. This App is intended for single use estimate and general knowledge information only and not multiple or large scale applications of the same input criteria. More accurate calculations should be referred to relevant professionals and alternate scientific computer programs.
 Results may depend on the accuracy of the assumptions, factors, and values used by the App and should not be treated as professional, engineering, financial, or regulatory advice. You should independently verify results before relying on them for important decisions.
+Refer to app support at https://github.com/ChivnetDevelop/ElecCostCO2-for-IOS-Support for additional information.  
 
 Termination Statement:   
 This App may cease to be provided or may be withdrawn from the Apple App Store at any time without prior notice. If the App is withdrawn, you may no longer be able to download or receive updates to it. Unless otherwise notified, upon any such termination, (a) the rights and licenses granted to you will end; and (b) you must discontinue using the App and, if applicable, delete it from your device.
